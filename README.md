@@ -1,6 +1,7 @@
 # Feather Icon Font
 
-Made with [IcoMoon.io](https://icomoon.io). Based on Feather v4.14.0
+Made with [IcoMoon.io](https://icomoon.io). 
+Based on Feather v4.14.0
 
 ## Usage
 
@@ -16,7 +17,7 @@ Example: `<i class="feather icon-heart"></i>`
 
 ## Demo
 
-Open [*demo/index.html*](https://rawgit.com/ezequielprieto/feather-icon-font/master/demo/index.html) to see a list of all the glyphs in your font along with their codes/ligatures.
+Open [*demo/index.html*] to see a list of all the glyphs in your font along with their codes/ligatures.
 
 ## LICENSE
 
